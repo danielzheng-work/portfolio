@@ -13,5 +13,5 @@
 </p> -->
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/img/homepage.JPG" />
+  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/img/homepage_2026.png" />
 </div>
