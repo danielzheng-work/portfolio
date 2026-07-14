@@ -5,7 +5,7 @@
  Personal Portfolio Website 
 </h1>
 <p align="center">
-  My <a href="https://danielzheng-work.github.io/portfolio/" target="_blank">personal portfolio website</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a> and revised from <a href="https://github.com/Maclinz" target="_blank">MacLinz</a>
+  My <a href="https://danielzheng-work.github.io/portfolio/" target="_blank">personal portfolio website</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages
 </p>
 <!-- <p align="center">
   Previous iterations:
