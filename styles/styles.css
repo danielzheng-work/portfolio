@@ -534,19 +534,31 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 90%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+  width: 88%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+  width: 85%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+  width: 85%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .cloud {
+  width: 80%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .database {
+  width: 78%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .systems {
+  width: 72%;
 }
 
 .stat-title {

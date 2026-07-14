@@ -130,23 +130,26 @@ function PageTransitions(){
         })
     }
 
-    //Sctions Active 
+    //Sections active
     allSections.addEventListener('click', (e) =>{
-        const id = e.target.dataset.id;
+        const control = e.target.closest('[data-id]');
+        const id = control ? control.dataset.id : null;
+
         if(id){
-            //resmove selected from the other btns
-            sectBtns.forEach((btn) =>{
+            // Remove selected state from the other buttons.
+            sectBtn.forEach((btn) =>{
                 btn.classList.remove('active')
             })
-            e.target.classList.add('active')
+            control.classList.add('active')
 
-            //hide other sections
+            // Hide other sections.
             sections.forEach((section)=>{
                 section.classList.remove('active')
             })
 
             const element = document.getElementById(id);
             element.classList.add('active');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     })
 
